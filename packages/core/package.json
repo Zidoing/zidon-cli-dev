@@ -5,7 +5,10 @@
   "author": "zidon <403907871@qq.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/core.js",
+  "main": "lib/index.js",
+  "bin": {
+    "zidon-cli-dev":  "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,5 +21,6 @@
   },
   "dependencies": {
     "@zidon-cli-dev/utils": "^0.0.2"
-  }
+  },
+  "gitHead": "724618654d85df2d875d2af839d96f7f09b5dd8c"
 }
