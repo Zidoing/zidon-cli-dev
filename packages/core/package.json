@@ -22,5 +22,8 @@
   "dependencies": {
     "@zidon-cli-dev/utils": "^0.0.4"
   },
-  "gitHead": "89263aab6e48db6d9cc2f489496449181c94ab41"
+  "gitHead": "c20c47a0cf0d2c62f5c1a627285233dacf7c2851",
+  "publishConfig": {
+    "access": "public"
+  }
 }
