@@ -1,6 +1,6 @@
 {
   "name": "@zidon-cli-dev/core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "zidon-cli-dev core",
   "author": "zidon <403907871@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from core\" "
   },
   "dependencies": {
-    "@zidon-cli-dev/utils": "^0.0.3"
+    "@zidon-cli-dev/utils": "^0.0.4"
   },
   "gitHead": "89263aab6e48db6d9cc2f489496449181c94ab41"
 }
