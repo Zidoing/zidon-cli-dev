@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from core\" "
   },
   "dependencies": {
-    "@zidon-cli-dev/utils": "^0.0.5"
+    "@zidon-cli-dev/utils": "file:../utils"
   },
   "gitHead": "c20c47a0cf0d2c62f5c1a627285233dacf7c2851",
   "publishConfig": {
